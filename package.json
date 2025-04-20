@@ -1,0 +1,13 @@
+{
+  "name": "signed-numbers",
+  "version": "1.0.0",
+  "description": "PositiveNumber, NegativeNumber, ZeroNumber for TypeScript",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node --experimental-transform-types index.ts",
+    "test": "node --experimental-transform-types index.test.ts"
+  },
+  "author": "",
+  "license": "ISC"
+}
